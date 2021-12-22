@@ -18,14 +18,4 @@
 | [Классификация комментариев на позитивные и негативные. BERT](https://github.com/MGrigoriiDS/mg_ds/blob/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BD%D0%B5%D0%B3%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5.%20BERT/mg_bert_final_GIT.ipynb) | Необходимо обучить модель классифицировать комментарии на позитивные и негативные| *pandas*, *sklearn*, *numpy*, *машинное обучение*, *LinearRegression*, *DecisionTree*, *RandomForest*, *BERT*,  |
 
 
-![2021-12-22_10-59-16](https://user-images.githubusercontent.com/73417963/147057398-1b9f7366-b073-44e9-a5f6-53e377388572.png)
-
-![2021-12-22_11-00-16](https://user-images.githubusercontent.com/73417963/147057452-9f39a34e-9040-46ba-a78a-f07c7f101f37.png)
-
-![2021-12-22_11-00-36](https://user-images.githubusercontent.com/73417963/147057458-d6fa1ff9-4c66-45ed-830c-94b6fb42a214.png)
-
-![2021-12-22_10-59-40](https://user-images.githubusercontent.com/73417963/147057492-8014b98e-eb41-4633-9a95-657d1ffbc8b1.png)
-
-![2021-12-22_11-02-21](https://user-images.githubusercontent.com/73417963/147057515-69d43fd8-cfbe-4947-83b7-08e2fe57a470.png)
-
 

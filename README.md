@@ -20,3 +20,9 @@
 ![mg_SQL_certificate10241024_1](https://user-images.githubusercontent.com/73417963/147058763-1185a535-8710-4393-ba35-7ea94c254137.jpg)
 
 ![Netologia_Основы аналитики и аналитического мышления](https://user-images.githubusercontent.com/73417963/147058774-18780a27-9d36-4eb9-ac9d-83a8bc904da4.jpg)
+
+![Netologia_Основы визуализации данных_page-0001 (1)](https://user-images.githubusercontent.com/73417963/147059196-66bb41e5-fa8b-4358-91b8-03eed3752d7f.jpg)
+
+![Stepik__Основы статистики_page-0001](https://user-images.githubusercontent.com/73417963/147059043-cf32f0f1-7377-4a8d-a9f7-63eacd4cd4cd.jpg)
+
+![Stepik_Введение в data science и ML_page-0001](https://user-images.githubusercontent.com/73417963/147059057-b7da1f8f-f4a8-4046-aa92-7ca5ba461771.jpg)

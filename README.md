@@ -17,5 +17,6 @@
 | [Прогнозирование заказов такси](https://github.com/MGrigoriiDS/mg_ds/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D0%B9%20%D1%87%D0%B0%D1%81/mg_prediction_of_taxi_orders_final_GIT.ipynb) | Необходимо спрогнозировать количество заказов такси на следующий час| *pandas*, *sklearn*, *math*, *numpy*, *Seaborn*, *машинное обучение*, *LinearRegression*, *Gradient Boosting Decision Tree*, *Случайный лес LightGBM* |
 | [Классификация комментариев на позитивные и негативные. BERT](https://github.com/MGrigoriiDS/mg_ds/blob/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BD%D0%B5%D0%B3%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5.%20BERT/mg_bert_final_GIT.ipynb) | Необходимо обучить модель классифицировать комментарии на позитивные и негативные| *pandas*, *sklearn*, *numpy*, *машинное обучение*, *LinearRegression*, *DecisionTree*, *RandomForest*, *BERT*,  |
 
+![mg_SQL_certificate10241024_1](https://user-images.githubusercontent.com/73417963/147058763-1185a535-8710-4393-ba35-7ea94c254137.jpg)
 
-
+![Netologia_Основы аналитики и аналитического мышления](https://user-images.githubusercontent.com/73417963/147058774-18780a27-9d36-4eb9-ac9d-83a8bc904da4.jpg)

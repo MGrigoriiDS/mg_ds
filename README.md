@@ -25,4 +25,4 @@
 
 ![Stepik__Основы статистики_page-0001](https://user-images.githubusercontent.com/73417963/147059043-cf32f0f1-7377-4a8d-a9f7-63eacd4cd4cd.jpg)
 
-![Stepik_Введение в data science и ML_page-0001](https://user-images.githubusercontent.com/73417963/147059057-b7da1f8f-f4a8-4046-aa92-7ca5ba461771.jpg)
+![Stepik_Введение в data science и ML_page-0001](https://user-images.githubusercontent.com/73417963/147342781-1532cc5d-72e6-40c7-91d5-fa6b096fa9f4.jpg)

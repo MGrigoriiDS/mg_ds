@@ -27,4 +27,10 @@
 
 ![Stepik_Введение в data science и ML_page-0001](https://user-images.githubusercontent.com/73417963/147342781-1532cc5d-72e6-40c7-91d5-fa6b096fa9f4.jpg)
 
-[Mini MBA_Grigorii Mitrofanov.pdf](https://github.com/MGrigoriiDS/mg_ds/files/7951455/Mini.MBA_Grigorii.Mitrofanov.pdf)
+![Mini MBA_Grigorii Mitrofanov_page-0001](https://user-images.githubusercontent.com/73417963/151387076-74d8f548-302d-4957-af7f-71b3d6db556f.jpg)
+
+![Mini MBA_Grigorii Mitrofanov_page-0002](https://user-images.githubusercontent.com/73417963/151387095-e98771b3-1469-4c5e-b646-ded65097d731.jpg)
+
+![Mini MBA_Grigorii Mitrofanov_page-0003](https://user-images.githubusercontent.com/73417963/151387132-a146c36c-1341-4aea-b632-6b9cfa2ad3c3.jpg)
+
+

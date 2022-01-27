@@ -26,3 +26,5 @@
 ![Stepik__Основы статистики_page-0001](https://user-images.githubusercontent.com/73417963/147059043-cf32f0f1-7377-4a8d-a9f7-63eacd4cd4cd.jpg)
 
 ![Stepik_Введение в data science и ML_page-0001](https://user-images.githubusercontent.com/73417963/147342781-1532cc5d-72e6-40c7-91d5-fa6b096fa9f4.jpg)
+
+[Mini MBA_Grigorii Mitrofanov.pdf](https://github.com/MGrigoriiDS/mg_ds/files/7951455/Mini.MBA_Grigorii.Mitrofanov.pdf)

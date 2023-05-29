@@ -20,6 +20,8 @@
 | [Классификация комментариев на позитивные и негативные. BERT](https://github.com/MGrigoriiDS/mg_ds/blob/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BD%D0%B5%D0%B3%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5.%20BERT/mg_bert_final_GIT.ipynb) | Необходимо обучить модель классифицировать комментарии на позитивные и негативные| *pandas*, *sklearn*, *numpy*, *машинное обучение*, *LinearRegression*, *DecisionTree*, *RandomForest*, *BERT*,  |
 
 
+[en_Специалист по Data Science МитрофановГригорийАлександрович.pdf](https://github.com/MGrigoriiDS/mg_ds/files/11591357/en_.Data.Science.pdf)
+
 ![mg_SQL_certificate_page-0001](https://user-images.githubusercontent.com/73417963/147059397-32ee6f83-51fd-40d9-84ba-d505365108d2.jpg)
 
 ![Netologia_Основы аналитики и аналитического мышления_page-0001](https://user-images.githubusercontent.com/73417963/147059424-8ae7db48-4905-4a2a-b5b7-61d1dd89be15.jpg)

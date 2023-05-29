@@ -21,6 +21,8 @@
 
 ![image](https://github.com/MGrigoriiDS/mg_ds/assets/73417963/d2989d3a-b4a7-425c-b7d9-438721c4f7e6)
 
+![image](https://github.com/MGrigoriiDS/mg_ds/assets/73417963/6c4824cc-1221-4fb3-bb3c-31e336c0b9a2)
+
 ![mg_SQL_certificate_page-0001](https://user-images.githubusercontent.com/73417963/147059397-32ee6f83-51fd-40d9-84ba-d505365108d2.jpg)
 
 ![Netologia_Основы аналитики и аналитического мышления_page-0001](https://user-images.githubusercontent.com/73417963/147059424-8ae7db48-4905-4a2a-b5b7-61d1dd89be15.jpg)
